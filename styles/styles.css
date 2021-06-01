@@ -1,0 +1,40 @@
+html {
+    font-size: 60px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Poppins", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+h1 {
+    color: red;
+    size: 50px;
+    text-align: center;
+}
+
+.demo-box {
+    margin: 100px auto;
+    border-top: 15px solid black;
+}
+  
+.one {
+    background: #311847;
+    height: 50px;
+    margin-top: 100px;
+}
+
+.two {
+    background: #EC4067;
+    height: 50px;
+}
+
+.three {
+    background: #A01A7d;
+    height: 50px;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: block;
+    height: 700px;
+    width: 1000px;
+    margin:50px auto 20px auto;
+  }
